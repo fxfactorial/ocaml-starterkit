@@ -5,7 +5,7 @@ version: "1.0.0"
 maintainer: "Edgar Aroutiounian <edgar.factorial@gmail.com>"
 authors: [ "Edgar Aroutiounian <edgar.factorial@gmail.com>" ]
 license: "BSD-3-clause"
-homepage: "https://github.com/fxfactorial/ocaml-starter"
+homepage: "https://github.com/fxfactorial/ocaml-starterkit"
 depends: [
   "lambda-term"
   "ocp-indent"
