@@ -128,3 +128,6 @@ S some_path2
 PKG opam_pkg1 opam_pkg2
 FLG -w +a-4-40..42-44-45-48
 ```
+
+Further material, emacs elisp and sample code found
+here:[So you're learning OCaml](http://hyegar.com/2015/10/20/so-youre-learning-ocaml/)
