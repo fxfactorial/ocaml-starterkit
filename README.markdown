@@ -83,7 +83,7 @@ installed OCaml code:
 $ ocp-browser
 ```
 
-![](./images/ocp-browser.png)
+![](./images/ocp-browser.gif)
 
 Use `ocp-indent` to align your code, `vim/emacs` need to add code to
 their startup code.
