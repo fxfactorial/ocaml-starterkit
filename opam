@@ -1,7 +1,7 @@
 # -*- conf -*-
 opam-version: "1.2"
 name: "starterkit"
-version: "1.0.0"
+version: "1.1.0"
 maintainer: "Edgar Aroutiounian <edgar.factorial@gmail.com>"
 authors: [ "Edgar Aroutiounian <edgar.factorial@gmail.com>" ]
 license: "BSD-3-clause"
@@ -9,13 +9,13 @@ homepage: "https://github.com/fxfactorial/ocaml-starterkit"
 depends: [
   "lambda-term"
   "ocp-indent"
-  "stringext"
   "utop"
   "ocp-index"
   "merlin"
   "ocamlfind"
   "oasis"
   "ocamlbuild"
+  "tuareg"
 ]
 
 post-messages: [
@@ -23,7 +23,7 @@ post-messages: [
 "
 
 OASISFormat:  0.4
-OCamlVersion: >= 4.02.0
+OCamlVersion: >= 4.04.0
 Name:         opam_package_name
 Version:      0.1.0
 Maintainers:  New OCaml programmer
