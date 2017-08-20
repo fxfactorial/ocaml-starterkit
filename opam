@@ -16,6 +16,7 @@ depends: [
   "oasis"
   "ocamlbuild"
   "tuareg"
+  "opam-publish"
 ]
 
 post-messages: [
